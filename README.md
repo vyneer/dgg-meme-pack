@@ -11,3 +11,9 @@ Download repo as zip into your resourcepack folder.
 1. Added 2 other Villager outfits: "nathanTiny2" for Desert, Jungle and Savanna biomes, and "angry Steve in a grey hoodie" for Snow and Taiga biomes.
 2. The existing "blue coat" outfit is now for Plains and Swamp biomes.
 3. Farmer Villager has a blue fedora instead of a straw hat.
+
+## Screenshots
+
+![blue coat](https://i.imgur.com/329Ieza.png)
+![nathanTiny2](https://i.imgur.com/gUVQYVu.png)
+![grey hoodie](https://i.imgur.com/uSO7jNo.png)
