@@ -1,0 +1,6 @@
+{
+"creeper_primed_nopitchchange": {"replace":true,"sounds": ["random/fuse_creeper"]},
+"creeper.primed": {"replace":true,"category": "hostile","sounds": [{"type": "event","pitch":2,"name": "creeper_primed_nopitchchange"}]},
+"mob.villager.idleplus": {"replace":false,"sounds": ["mob/villager/haggle1","mob/villager/haggle2","mob/villager/haggle3","mob/villager/no1","mob/villager/no2","mob/villager/no3","mob/villager/yes1","mob/villager/yes3"]},
+"mob.villager.idle": {"replace":false,"category": "neutral","sounds": [{type: "event","name": "mob.villager.idleplus"}]}
+}
