@@ -4,7 +4,7 @@ Not originally made by me, I just updated it to work with 1.16.2+
 
 ## Installation
 
-Download repo as zip into your resourcepack folder.
+Download repo as zip and unpack into your resourcepack folder (dgg-meme-pack-master should be in the folder).
 
 ## Changes
 
